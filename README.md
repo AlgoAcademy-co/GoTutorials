@@ -8,13 +8,13 @@ Welcome to the official repository for my YouTube tutorial series on the Go prog
 - In this lesson, we dive deep into the world of variables in Go, covering constants, strings, integers, booleans, arrays, slices, maps, structs, pointers, type inference, multiple assignment, the blank identifier, and zero values.
 
 ### [Lesson 2: ... (Upcoming)](/UpcomingLesson)
-- Stay tuned for our next lesson on ...
+- Our next lesson is in the works
 
 ## Future Lessons (Upcoming)
 
 - Lesson 3: ...
 - Lesson 4: ...
-- ...
+- 
 
 Don't forget to [subscribe to my YouTube channel](https://www.youtube.com/channel/UCO_3fQWln1T5oWRJ6trK18A) for more Go programming content!
 
