@@ -9,7 +9,6 @@ const pi = "3.14"
 
 func main () {
   //Example of how variables can be declared 
-  var name string
 
   //Strings are sequences of characters like the famous "Hello World", or "Algo Academy"
   var channelName string = "Algo Academy"
