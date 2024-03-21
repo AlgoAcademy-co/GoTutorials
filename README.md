@@ -7,8 +7,8 @@ Welcome to the official repository for my YouTube tutorial series on the Go prog
 ### [Lesson 0: Setting up Your Go Environment](/SettingUpGoEnvironment)
 - Set up a Go development environment using Neovim, configure your workspace, and get ready to write Go code.
 
-### [Lesson 1: Mastering Variables](/MasteringVariables)
-- In this lesson, we dive deep into the world of variables in Go, covering constants, strings, integers, booleans, arrays, slices, maps, structs, pointers, type inference, multiple assignment, the blank identifier, and zero values.
+### [Lesson 1: Project Structure](/Projectstructure)
+- Explore the structure of a Go program and understand the key components that make it work.
 
 ### [Lesson 2: Data Types in Go](/DataTypesInGo)
 - Explore Go's basic data types such as integers, strings, booleans, and more, and understand how to use them effectively.
